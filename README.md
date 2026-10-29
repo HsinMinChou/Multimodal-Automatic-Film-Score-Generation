@@ -17,6 +17,26 @@
 
 
 
+<p align="center">
+  <a href="https://youtu.be/kmwDfzA2gqY">
+    <img
+      src="EchFilmAI.png"
+      width="70%"
+      alt="Multimodal Automatic Film Score Generation — Demonstration"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <strong>Multimodal Automatic Film Score Generation — Demonstration</strong>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/kmwDfzA2gqY">
+    Watch the Demonstration on YouTube
+  </a>
+</p>
+
 
 
 
