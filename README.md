@@ -28,6 +28,89 @@ Demo3
 [https://drive.google.com/drive/u/2/home](https://drive.google.com/file/d/1gw_r4XOt7FF8QJwjDL4UwQBbf0WE0CBg/view?usp=drive_link)
 
 
+
+
+## FilmScore12 Dataset
+
+### Overview
+
+**FilmScore12** is a multimodal film–music dataset developed by **HSINMIN GLOBAL MUSIC** to advance research in automatic film score generation, emotion-aware music synthesis, and context-driven audiovisual intelligence.
+
+The dataset consists of **418 paired video–music clips across 12 cinematic genres**, providing a research foundation for understanding the relationships between visual storytelling, emotional dynamics, cinematic context, and musical expression.
+
+FilmScore12 supports the research presented in **Multimodal Automatic Film Score Generation**, integrating multimodal video understanding, large language model (LLM)-based music structure planning, and generative audio synthesis.
+
+### Dataset Information
+
+| Attribute | Description |
+|-----------|-------------|
+| Dataset Name | FilmScore12 |
+| Dataset Size | 418 paired video–music clips |
+| Cinematic Genres | 12 |
+| Modalities | Video and Music |
+| Research Area | Multimodal AI, Emotion Recognition, Generative Music |
+| Primary Application | Automatic Film Score Generation |
+| Research Organization | HSINMIN GLOBAL MUSIC |
+| Associated Research | Multimodal Automatic Film Score Generation |
+
+### Research Objectives
+
+FilmScore12 is designed to support research in:
+
+1. **Multimodal Video Understanding:** Analyzing visual scenes, emotional progression, and cinematic context.
+2. **Emotion-Aware Music Generation:** Investigating relationships between visual emotions and musical characteristics.
+3. **Context-Driven Film Scoring:** Supporting AI-generated soundtracks aligned with narrative and cinematic context.
+4. **Audiovisual Synchronization:** Exploring temporal alignment between visual sequences and musical composition.
+5. **Generative AI Evaluation:** Evaluating multimodal approaches to automatic film score generation.
+
+### Dataset Demonstration
+
+The official FilmScore12 audiovisual demonstration is available through the HSINMIN GLOBAL MUSIC research website.
+
+**[View FilmScore12 Dataset Demonstration – Video with Audio](https://www.hsinminglobal.com/film-music)**
+
+The demonstration presents audiovisual examples illustrating the relationship between cinematic scenes and musical expression.
+
+### Research Applications
+
+FilmScore12 provides a foundation for developing and evaluating AI systems that integrate visual, emotional, contextual, and musical information.
+
+Potential applications include:
+
+- Automatic film score generation
+- Multimodal narrative understanding
+- Emotion-aware soundtrack generation
+- Context-sensitive audiovisual intelligence
+- AI-assisted creative production
+
+### Academic Research and Citation
+
+FilmScore12 is associated with the research project **Multimodal Automatic Film Score Generation**.
+
+**Research Repository:** [GitHub – Multimodal Automatic Film Score Generation](https://github.com/HsinMinChou/Multimodal-Automatic-Film-Score-Generation)
+
+**Research Organization:** [HSINMIN GLOBAL MUSIC](https://www.hsinminglobal.com/)
+
+Researchers wishing to cite FilmScore12 should refer to the associated research publication once its bibliographic information is available.
+
+### Dataset Access and Licensing
+
+The public demonstration provides audiovisual examples of FilmScore12. Availability of the complete dataset and permission to use or redistribute its contents should be confirmed separately.
+
+The repository's MIT software license does not automatically extend to third-party audiovisual materials or dataset contents.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Project Overview
 
 This repository implements a complete backend service that:
