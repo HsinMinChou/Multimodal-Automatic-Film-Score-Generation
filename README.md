@@ -231,9 +231,11 @@ These releases provide additional listening references for exploring musical exp
   </a>
 </p>
 
+
 <p align="center">
-  <strong>Artist: HsinMin Chou</strong>
+  <strong>Produced by HSINMIN GLOBAL MUSIC®</strong>
 </p>
+
 
 The streaming releases offer supplementary listening material alongside the FilmScore12 audiovisual demonstrations.
 
