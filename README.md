@@ -245,6 +245,39 @@ The streaming releases offer supplementary listening material alongside the Film
 
 
 
+### Awards & International Recognition
+
+**International Recognition of Original Music Featured in the FilmScore12 Dataset**
+
+The **FilmScore12 Dataset** incorporates original cinematic music produced by **HSINMIN GLOBAL MUSIC**, including the award-winning composition **"Guided by Stars."**
+
+This original soundtrack received international recognition at the **2025 InterContinental Music Awards in Los Angeles, USA**, where **HsinMin Chou** was honored with the **Best Composer of Soundtrack** award.
+
+The recognition highlights the artistic quality of the original music featured in FilmScore12, demonstrating the integration of professional cinematic composition, emotional storytelling, and multimodal AI research.
+
+**Award Details**
+
+- **Award:** Best Composer of Soundtrack
+- **Competition:** 2025 InterContinental Music Awards
+- **Location:** Los Angeles, USA
+- **Award-Winning Composition:** Guided by Stars
+- **Composer:** HsinMin Chou
+- **Music Production:** HSINMIN GLOBAL MUSIC
+- **Research Dataset:** FilmScore12
+
+**Official Award Verification & Media Coverage**
+
+- [InterContinental Music Awards — Official 2025 Winners](https://www.intercontinentalmusicawards.com/winners/winners2025/)
+- [HSINMIN GLOBAL MUSIC — Official Award Announcement](https://www.hsinminglobal.com/intercontinental-music-awards-la)
+- [Musical America Worldwide — 2025 Awards Coverage](https://www.musicalamerica.com/news/newsstory.cfm?storyid=63594&categoryid=5&archived=0)
+
+**Produced by HSINMIN GLOBAL MUSIC**
+
+
+
+
+
+
 
 
 
