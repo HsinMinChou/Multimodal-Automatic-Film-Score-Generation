@@ -18,15 +18,17 @@ Demo Video:
 Demo1
 
 https://drive.google.com/file/d/11kRJQ7vKXp4Y8ML4B65mTfsEFCqosYct/view?usp=drive_link
+<img width="1000"  alt="Screenshot" src="Demo1.png" />
 
 Demo2
 
 https://drive.google.com/file/d/1LXrL2Ha30-BsmL3zeDgeqjlvb-qhaTdx/view?usp=drive_link
+<img width="1000"  alt="Screenshot" src="Demo2.png" />
 
 Demo3
 
 [https://drive.google.com/drive/u/2/home](https://drive.google.com/file/d/1gw_r4XOt7FF8QJwjDL4UwQBbf0WE0CBg/view?usp=drive_link)
-
+<img width="1000"  alt="Screenshot" src="Demo3.png" />
 
 
 
