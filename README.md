@@ -215,6 +215,34 @@ The following examples showcase selected cinematic music compositions across dif
 
 
 
+### Original Music — Spotify & Apple Music
+
+Original music associated with FilmScore12 can also be explored through major music streaming platforms, including Spotify and Apple Music.
+
+These releases provide additional listening references for exploring musical expression, emotional storytelling, and cinematic composition.
+
+<p align="center">
+  <a href="https://open.spotify.com/artist/6FMzfh1FGiZPkQ0sKy4Ma1">
+    <img src="https://img.shields.io/badge/Spotify-Listen_to_Original_Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://music.apple.com/tw/artist/hsinmin-chou/1757783998">
+    <img src="https://img.shields.io/badge/Apple_Music-Listen_to_Original_Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white" alt="Listen on Apple Music">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Artist: HsinMin Chou</strong>
+</p>
+
+The streaming releases offer supplementary listening material alongside the FilmScore12 audiovisual demonstrations.
+
+**Note:** Streaming availability does not imply that the underlying audio files are included in the publicly downloadable dataset or licensed for redistribution.
+
+
+
+
+
 
 
 
