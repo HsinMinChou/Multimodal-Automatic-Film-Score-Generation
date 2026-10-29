@@ -237,6 +237,55 @@ These releases provide additional listening references for exploring musical exp
 </p>
 
 
+
+
+
+
+
+
+
+
+### Original Music — Spotify & Apple Music
+
+Original music associated with the **FilmScore12 Dataset** is also available on major music streaming platforms, including Spotify and Apple Music.
+
+These releases provide additional listening references for exploring cinematic composition, musical expression, emotional storytelling, and the relationship between music and narrative context.
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://open.spotify.com/artist/6FMzfh1FGiZPkQ0sKy4Ma1">
+        <img src="Spotify.png" width="100%" alt="FilmScore12 Original Music - Spotify">
+      </a>
+      <p><strong>Spotify</strong></p>
+      <p><em>Explore original cinematic music releases.</em></p>
+      <a href="https://open.spotify.com/artist/6FMzfh1FGiZPkQ0sKy4Ma1">
+        <img src="https://img.shields.io/badge/Spotify-Listen_to_Original_Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify">
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://music.apple.com/tw/artist/hsinmin-chou/1757783998">
+        <img src="AppleMusic.png" width="100%" alt="FilmScore12 Original Music - Apple Music">
+      </a>
+      <p><strong>Apple Music</strong></p>
+      <p><em>Listen to original compositions and soundtrack releases.</em></p>
+      <a href="https://music.apple.com/tw/artist/hsinmin-chou/1757783998">
+        <img src="https://img.shields.io/badge/Apple_Music-Listen_to_Original_Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white" alt="Listen on Apple Music">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <strong>Produced by HSINMIN GLOBAL MUSIC®</strong>
+</p>
+
+The streaming releases offer supplementary listening material alongside the FilmScore12 audiovisual demonstrations.
+
+**Note:** Streaming availability does not imply that the underlying audio files are included in the publicly downloadable dataset or licensed for redistribution.
+
+
+
 The streaming releases offer supplementary listening material alongside the FilmScore12 audiovisual demonstrations.
 
 **Note:** Streaming availability does not imply that the underlying audio files are included in the publicly downloadable dataset or licensed for redistribution.
