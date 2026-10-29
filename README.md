@@ -257,21 +257,24 @@ The recognition highlights the artistic quality of the original music featured i
 
 
 
-<p align="center">
-  <a href="https://www.hsinminglobal.com/intercontinental-music-awards-la">
-    <img
-      src="Commercial-Music-5.png"
-      width="70%"
-      alt="HSINMIN GLOBAL MUSIC - 2025 InterContinental Music Awards, Best Composer of Soundtrack"
-    >
-  </a>
-</p>
 
-<p align="center">
-  <em>
-    Figure. International recognition of original music featured in the FilmScore12 Dataset — 2025 InterContinental Music Awards.
-  </em>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.hsinminglobal.com/intercontinental-music-awards-la">
+        <img src="Commercial-Music-5.png" width="100%" alt="HSINMIN GLOBAL MUSIC - InterContinental Music Awards Announcement">
+      </a>
+      <p><em>HSINMIN GLOBAL MUSIC — Official Award Announcement</em></p>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.intercontinentalmusicawards.com/winners/winners2025/">
+        <img src="FilmScore12-Awards.png" width="100%" alt="HsinMin Chou - Best of Pangea, Guided by Stars, Soundtrack, 2025 InterContinental Music Awards">
+      </a>
+      <p><em>2025 InterContinental Music Awards — Best of Pangea, "Guided by Stars" (Soundtrack)</em></p>
+    </td>
+  </tr>
+</table>
+
 
 
 
