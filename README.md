@@ -60,6 +60,34 @@ The following figures illustrate MIDI-based musical representations and multitra
 
 
 
+## Music Representation and Arrangement Examples
+
+The following figures illustrate MIDI-based musical representations and multitrack composition workflows relevant to cinematic music structure and audiovisual synchronization.
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="MIDI piano roll visualization.png" width="100%" alt="MIDI piano-roll representation">
+      <p><strong>Figure 1. MIDI Note Representation</strong></p>
+      <p><em>MIDI piano-roll visualization illustrating pitch, onset timing, duration, and polyphonic structure.</em></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="Digital multitrack workflow.png" width="100%" alt="Multitrack music arrangement">
+      <p><strong>Figure 2. Multitrack Music Arrangement</strong></p>
+      <p><em>Digital audio workstation illustrating layered instrumentation, musical sections, and temporal organization.</em></p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
 
 
 
