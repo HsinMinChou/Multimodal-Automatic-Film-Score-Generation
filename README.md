@@ -43,7 +43,7 @@ The following figures illustrate MIDI-based musical representations and multitra
 #### Figure 1. MIDI Note Representation
 
 <p align="center">
-  <img src="docs/images/HM-5.jpeg" width="850" alt="MIDI piano roll visualization showing musical note patterns, pitch distribution, and temporal structure">
+  <img src="MIDI piano roll visualization.png" width="850" alt="MIDI piano roll visualization showing musical note patterns, pitch distribution, and temporal structure">
 </p>
 
 *Figure 1. MIDI piano-roll representation illustrating note-level musical information, including pitch, onset timing, duration, and polyphonic structure.*
@@ -51,7 +51,7 @@ The following figures illustrate MIDI-based musical representations and multitra
 #### Figure 2. Multitrack Music Arrangement
 
 <p align="center">
-  <img src="docs/images/HM-13.jpeg" width="850" alt="Digital audio workstation showing multitrack instrumental arrangement and musical sections">
+  <img src="Digital multitrack workflow.png" width="850" alt="Digital audio workstation showing multitrack instrumental arrangement and musical sections">
 </p>
 
 *Figure 2. Digital audio workstation arrangement illustrating layered instrumentation, musical sections, and temporal organization in a cinematic composition workflow.*
