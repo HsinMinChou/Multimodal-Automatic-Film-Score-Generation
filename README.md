@@ -330,11 +330,32 @@ FilmScore12 is associated with the research project **Multimodal Automatic Film 
 
 Researchers wishing to cite FilmScore12 should refer to the associated research publication once its bibliographic information is available.
 
+
 ### Dataset Access and Licensing
 
-The public demonstration provides audiovisual examples of FilmScore12. Availability of the complete dataset and permission to use or redistribute its contents should be confirmed separately.
+The **FilmScore12 Dataset** is made available through a dedicated intellectual property licensing framework administered by **HSINMIN IP HOLDING PTY LTD**.
 
-The repository's MIT software license does not automatically extend to third-party audiovisual materials or dataset contents.
+FilmScore12 comprises synchronized audiovisual materials, original WAV recordings, MIDI compositions, and associated metadata designed to support multimodal AI research, automatic film score generation, and related applications.
+
+Access to the complete dataset is subject to a separate licensing agreement. Researchers, academic institutions, AI developers, and commercial organizations interested in using FilmScore12 are invited to submit a licensing inquiry through the official website.
+
+**Official FilmScore12 Dataset Licensing Portal:**
+
+[Request FilmScore12 Dataset Access & Licensing](https://www.hsinminglobal.com/filmscore12-license)
+
+**Important Licensing Notes**
+
+- Dataset access and usage rights are subject to approval and applicable licensing terms.
+- Academic research, AI model training, commercial applications, and redistribution may require different permissions.
+- The repository's MIT License applies to covered software code only and does not automatically grant rights to the FilmScore12 Dataset, original music recordings, MIDI compositions, or audiovisual materials.
+- Public demonstrations and streaming releases do not constitute permission to download, reproduce, redistribute, or commercially exploit the underlying dataset.
+
+For dataset access, research collaborations, or commercial licensing inquiries, please visit the official FilmScore12 licensing portal.
+
+**Dataset IP Rights Holder:** HSINMIN IP HOLDING PTY LTD
+
+**Research & Music Production:** HSINMIN GLOBAL MUSIC
+
 
 
 
