@@ -110,6 +110,8 @@ FilmScore12 is designed to support research in:
 The official FilmScore12 audiovisual demonstration is available through the HSINMIN GLOBAL MUSIC research website.
 
 **[View FilmScore12 Dataset Demonstration – Video with Audio](https://www.hsinminglobal.com/film-music)**
+<img width="1000"  alt="Screenshot" src="FilmScore12 Demonstration.png" />
+
 
 The demonstration presents audiovisual examples illustrating the relationship between cinematic scenes and musical expression.
 
