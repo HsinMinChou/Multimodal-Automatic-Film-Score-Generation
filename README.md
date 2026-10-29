@@ -7,6 +7,33 @@
 [AI System](https://www.hsinminglobal.com/multimodal-automatic-film-score-generation) | [HSINMIN GLOBAL MUSIC PRODUCTION CORPORATION Official Website](https://www.hsinminglobal.com/) | [Paper] | [Dataset (FilmScore12) Demonstration - Video with Audio](https://www.hsinminglobal.com/film-music) 
 </div>
 
+
+
+<p align="center">
+  <a href="https://www.hsinminglobal.com/multimodal-automatic-film-score-generation">
+    <img src="AI-Music-Generation-Banner.png" width="100%" alt="HSINMIN GLOBAL MUSIC - AI Music Generation System | Human and AI Collaboration">
+  </a>
+</p>
+
+<h1 align="center">
+  Multimodal Automatic Film Score Generation
+</h1>
+
+<p align="center">
+  <strong>FilmScore12 | Multimodal AI | Emotion-Aware Music Generation</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.hsinminglobal.com/multimodal-automatic-film-score-generation">AI System</a> |
+  <a href="https://www.hsinminglobal.com/">Official Website</a> |
+  <a href="https://www.hsinminglobal.com/film-music">FilmScore12 Dataset Demonstration</a>
+</p>
+
+
+
+
+
+
 ## Introduction
 We propose a fully‐automated, four‐stage framework for film score generation that tightly couples multimodal video understanding with large‐language‐model‐driven planning and latent diffusion synthesis. We train and evaluate our system on the new FilmScore12 dataset of 418 paired video–music clips spanning 12 cinematic genres. Objective metrics (loudness, spectral coverage, dynamic contrast) and ablation studies confirm the importance of each feature modality, while a filmmaker user study rates 85 % of generated drafts as immediately useful. We utilize FilmScore12 and our full codebase to catalyze further research in emotion‐aware, context‐driven AI film scoring.
 
