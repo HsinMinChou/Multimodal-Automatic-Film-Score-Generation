@@ -339,6 +339,33 @@ FilmScore12 comprises synchronized audiovisual materials, original WAV recording
 
 Access to the complete dataset is subject to a separate licensing agreement. Researchers, academic institutions, AI developers, and commercial organizations interested in using FilmScore12 are invited to submit a licensing inquiry through the official website.
 
+
+
+<p align="center">
+  <a href="https://www.hsinminglobal.com/filmscore12-license">
+    <img
+      src="FilmScore12-License.png"
+      width="70%"
+      alt="FilmScore12 Dataset License - Official Licensing Portal by HSINMIN IP HOLDING PTY LTD"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <em>FilmScore12 Dataset — Official Intellectual Property Licensing Portal</em>
+</p>
+
+<p align="center">
+  <strong>
+    <a href="https://www.hsinminglobal.com/filmscore12-license">
+      Request FilmScore12 Dataset Access & Licensing
+    </a>
+  </strong>
+</p>
+
+
+
+
 **Official FilmScore12 Dataset Licensing Portal:**
 
 [Request FilmScore12 Dataset Access & Licensing](https://www.hsinminglobal.com/filmscore12-license)
