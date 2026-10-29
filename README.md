@@ -19,15 +19,6 @@
   Multimodal Automatic Film Score Generation
 </h1>
 
-<p align="center">
-  <strong>FilmScore12 | Multimodal AI | Emotion-Aware Music Generation</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.hsinminglobal.com/multimodal-automatic-film-score-generation">AI System</a> |
-  <a href="https://www.hsinminglobal.com/">Official Website</a> |
-  <a href="https://www.hsinminglobal.com/film-music">FilmScore12 Dataset Demonstration</a>
-</p>
 
 
 
