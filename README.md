@@ -255,6 +255,26 @@ This original soundtrack received international recognition at the **2025 InterC
 
 The recognition highlights the artistic quality of the original music featured in FilmScore12, demonstrating the integration of professional cinematic composition, emotional storytelling, and multimodal AI research.
 
+
+
+<p align="center">
+  <a href="https://www.hsinminglobal.com/intercontinental-music-awards-la">
+    <img
+      src="Commercial-Music-5.png"
+      width="70%"
+      alt="HSINMIN GLOBAL MUSIC - 2025 InterContinental Music Awards, Best Composer of Soundtrack"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    Figure. International recognition of original music featured in the FilmScore12 Dataset — 2025 InterContinental Music Awards.
+  </em>
+</p>
+
+
+
 **Award Details**
 
 - **Award:** Best Composer of Soundtrack
