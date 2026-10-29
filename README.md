@@ -352,9 +352,9 @@ Access to the complete dataset is subject to a separate licensing agreement. Res
 
 For dataset access, research collaborations, or commercial licensing inquiries, please visit the official FilmScore12 licensing portal.
 
-**Dataset IP Rights Holder:** HSINMIN IP HOLDING PTY LTD
+**Dataset IP Rights Holder:** HSINMIN IP HOLDING PTY LTD®
 
-**Research & Music Production:** HSINMIN GLOBAL MUSIC
+**Research & Music Production:** HSINMIN GLOBAL MUSIC®
 
 
 
