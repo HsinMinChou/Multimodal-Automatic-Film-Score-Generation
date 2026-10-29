@@ -21,7 +21,7 @@
   <a href="https://youtu.be/kmwDfzA2gqY">
     <img
       src="EchFilmAI.png"
-      width="70%"
+      width="90%"
       alt="Multimodal Automatic Film Score Generation — Demonstration"
     >
   </a>
