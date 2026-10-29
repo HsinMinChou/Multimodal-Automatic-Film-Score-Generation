@@ -15,9 +15,7 @@
   </a>
 </p>
 
-<h1 align="center">
-  Multimodal Automatic Film Score Generation
-</h1>
+
 
 
 
