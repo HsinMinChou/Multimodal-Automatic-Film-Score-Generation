@@ -32,6 +32,55 @@ Demo3
 
 
 
+
+### Demo Video
+
+The following demonstrations illustrate the application of multimodal AI to automatic film score generation.
+
+#### Demo 1
+
+<p align="center">
+  <a href="https://www.hsinminglobal.com/multimodal-automatic-film-score-generation" target="_blank">
+    <img src="Demo1.png" width="70%" alt="Multimodal Automatic Film Score Generation - Demo 1">
+  </a>
+</p>
+
+#### Demo 2
+
+<p align="center">
+  <a href="https://www.hsinminglobal.com/multimodal-automatic-film-score-generation" target="_blank">
+    <img src="Demo2.png" width="70%" alt="Multimodal Automatic Film Score Generation - Demo 2">
+  </a>
+</p>
+
+#### Demo 3
+
+<p align="center">
+  <a href="https://www.hsinminglobal.com/multimodal-automatic-film-score-generation" target="_blank">
+    <img src="Demo3.png" width="70%" alt="Multimodal Automatic Film Score Generation - Demo 3">
+  </a>
+</p>
+
+<p align="center">
+  <strong>
+    <a href="https://www.hsinminglobal.com/multimodal-automatic-film-score-generation">
+      View Full AI System Demonstrations
+    </a>
+  </strong>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## FilmScore12 Dataset
 
 
