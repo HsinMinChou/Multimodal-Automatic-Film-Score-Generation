@@ -37,7 +37,15 @@
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://youtu.be/tTSafQYazRg">
+    <img
+      src="EchoFilm2.png"
+      width="80%"
+      alt="Multimodal Automatic Film Score Generation — Demonstration"
+    >
+  </a>
+</p>
 
 
 
