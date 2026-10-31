@@ -27,15 +27,7 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>Multimodal Automatic Film Score Generation — Demonstration</strong>
-</p>
 
-<p align="center">
-  <a href="https://youtu.be/kmwDfzA2gqY">
-    Watch the Demonstration on YouTube
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=bH_julNGh-Q">
@@ -48,7 +40,15 @@
 </p>
 
 
+<p align="center">
+  <strong>Multimodal Automatic Film Score Generation — Demonstration</strong>
+</p>
 
+<p align="center">
+  <a href="https://youtu.be/kmwDfzA2gqY">
+    Watch the Demonstration on YouTube
+  </a>
+</p>
 
 
 ## Introduction
