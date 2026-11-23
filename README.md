@@ -802,7 +802,7 @@ Contributions are welcome! Please:
   <img
     src="EchoFilm-AI.png"
     alt="EchoFilm AI — Narrative Intelligence Infrastructure by HSINMIN GLOBAL MUSIC"
-    width="850"
+    width="532"
   />
 </p>
 
