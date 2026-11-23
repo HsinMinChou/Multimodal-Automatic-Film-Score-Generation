@@ -972,7 +972,7 @@ emotional, and semantic information.
 
 <hr>
 
-<h3>Relationship to FilmScore12 Research</h3>
+<h3>Relationship to Multimodal Automatic Film Score Generation Research</h3>
 
 <p>
 <strong>FilmScore12</strong> and <strong>EchoFilm AI</strong>
