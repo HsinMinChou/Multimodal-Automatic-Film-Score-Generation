@@ -792,6 +792,47 @@ Contributions are welcome! Please:
 
 <h2>2026 International Recognition — AI Innovation & Creative Technology</h2>
 
+
+
+
+
+
+
+<p align="center">
+  <img
+    src="EchoFilm-AI.png"
+    alt="EchoFilm AI — Narrative Intelligence Infrastructure by HSINMIN GLOBAL MUSIC"
+    width="850"
+  />
+</p>
+
+<p align="center">
+  <strong>EchoFilm AI — Narrative Intelligence Infrastructure</strong>
+  <br>
+  <em>Understand | Reason | Create</em>
+  <br>
+  Developed by HSINMIN GLOBAL MUSIC
+</p>
+
+<p>
+EchoFilm AI is a related technology initiative developed by
+<strong>HSINMIN GLOBAL MUSIC</strong>, exploring
+multimodal understanding, affective computing,
+semantic reasoning, and context-aware AI systems.
+</p>
+
+<p>
+Building upon related research interests in multimodal
+narrative understanding and AI-driven creative technologies,
+EchoFilm AI explores broader applications beyond
+automatic film score generation.
+</p>
+
+
+
+
+
+
 <p>
 Beyond the original cinematic music featured in the FilmScore12
 dataset, <strong>HSINMIN GLOBAL MUSIC</strong> continues to advance
