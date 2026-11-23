@@ -784,6 +784,225 @@ Contributions are welcome! Please:
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 
+
+
+
+
+<hr>
+
+<h2>2026 International Recognition — AI Innovation & Creative Technology</h2>
+
+<p>
+Beyond the original cinematic music featured in the FilmScore12
+dataset, <strong>HSINMIN GLOBAL MUSIC</strong> continues to advance
+research-driven innovation in multimodal artificial intelligence,
+affective computing, and narrative-aware creative technologies.
+</p>
+
+<p>
+<strong>EchoFilm AI</strong> is a related technology initiative
+developed by HSINMIN GLOBAL MUSIC, exploring the integration of
+visual understanding, emotional context, semantic reasoning,
+and AI-driven multimedia applications.
+</p>
+
+<p>
+The following awards recognize EchoFilm AI and related creative
+technology initiatives. These recognitions are distinct from
+the academic evaluation of the FilmScore12 research framework.
+</p>
+
+<hr>
+
+<h3>2026 MarCom Awards — Gold Winner</h3>
+
+<p align="center">
+  <img
+    src="MarCom-Gold-Award.png"
+    alt="2026 MarCom Awards Gold Winner — HSINMIN GLOBAL MUSIC"
+    width="760"
+  >
+</p>
+
+<p align="center">
+  <em>
+    2026 MarCom Awards — Gold Winner
+    <br>
+    HSINMIN GLOBAL MUSIC | EchoFilm AI
+  </em>
+</p>
+
+<table>
+  <tr>
+    <th align="left">Award</th>
+    <td>Gold Level Winner</td>
+  </tr>
+  <tr>
+    <th align="left">Organization</th>
+    <td>MarCom Awards</td>
+  </tr>
+  <tr>
+    <th align="left">Year</th>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <th align="left">Recipient</th>
+    <td>HSINMIN GLOBAL MUSIC</td>
+  </tr>
+  <tr>
+    <th align="left">Recognized Entry</th>
+    <td>EchoFilm AI — Corporation B2B Services Promotional Videos</td>
+  </tr>
+</table>
+
+<p>
+The 2026 MarCom Gold Award recognizes the promotional presentation
+of EchoFilm AI within the business-to-business creative
+communications category.
+</p>
+
+<p>
+This distinction highlights the communication of HSINMIN GLOBAL
+MUSIC's vision for narrative-aware artificial intelligence,
+creative technology, and enterprise-oriented multimedia applications.
+</p>
+
+<hr>
+
+<h3>2026 TITAN Innovation Awards — Silver Winner</h3>
+
+<p align="center">
+  <img
+    src="Titan-Silver-Awards.png"
+    alt="2026 TITAN Innovation Awards Silver Winner — EchoFilm AI"
+    width="480"
+  >
+</p>
+
+<p align="center">
+  <em>
+    2026 TITAN Innovation Awards — Silver Winner
+    <br>
+    EchoFilm AI — Narrative Intelligence Infrastructure
+  </em>
+</p>
+
+<table>
+  <tr>
+    <th align="left">Award</th>
+    <td>Silver Winner</td>
+  </tr>
+  <tr>
+    <th align="left">Organization</th>
+    <td>TITAN Innovation Awards</td>
+  </tr>
+  <tr>
+    <th align="left">Year</th>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <th align="left">Recipient</th>
+    <td>HSINMIN GLOBAL MUSIC</td>
+  </tr>
+  <tr>
+    <th align="left">Recognized Innovation</th>
+    <td>EchoFilm AI — Narrative Intelligence Infrastructure</td>
+  </tr>
+  <tr>
+    <th align="left">Categories</th>
+    <td>
+      AI Innovation &amp; Transformation<br>
+      AI in Information Technology
+    </td>
+  </tr>
+</table>
+
+<p>
+EchoFilm AI received Silver recognition at the 2026 TITAN
+Innovation Awards for its work in artificial intelligence
+innovation and information technology.
+</p>
+
+<p>
+The initiative explores multimodal AI, contextual interpretation,
+and narrative-aware intelligent systems connecting visual,
+emotional, and semantic information.
+</p>
+
+<hr>
+
+<h3>Relationship to FilmScore12 Research</h3>
+
+<p>
+<strong>FilmScore12</strong> and <strong>EchoFilm AI</strong>
+are related initiatives developed within HSINMIN GLOBAL MUSIC's
+broader research and technology ecosystem.
+</p>
+
+<p>
+The FilmScore12 research focuses on multimodal automatic film
+score generation, integrating affective, motion, scene, and
+semantic features with LLM-driven structural planning and
+latent diffusion-based audio synthesis.
+</p>
+
+<p>
+EchoFilm AI explores broader applications of context-aware
+and narrative-oriented artificial intelligence.
+</p>
+
+<p>
+While these initiatives share related research interests,
+the MarCom and TITAN awards recognize EchoFilm AI and its
+associated activities. They should not be interpreted as
+independent peer-reviewed validation of the FilmScore12
+algorithms, experimental findings, or performance metrics.
+</p>
+
+<hr>
+
+<h3>Research &amp; Organization</h3>
+
+<p>
+<strong>Research Project:</strong>
+<a href="https://github.com/HsinMinChou/Multimodal-Automatic-Film-Score-Generation">
+Multimodal Automatic Film Score Generation
+</a>
+</p>
+
+<p>
+<strong>Developed by:</strong> HSINMIN GLOBAL MUSIC
+</p>
+
+<p>
+<strong>Official Website:</strong>
+<a href="https://hsinminglobal.com">
+https://hsinminglobal.com
+</a>
+</p>
+
+<p>
+<strong>Research Areas:</strong>
+Multimodal AI · Affective Computing · Narrative Intelligence ·
+LLM-Driven Planning · Generative Audio
+</p>
+
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
