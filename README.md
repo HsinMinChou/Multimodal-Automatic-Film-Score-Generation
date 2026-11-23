@@ -861,7 +861,7 @@ the academic evaluation of the FilmScore12 research framework.
   <img
     src="MarCom-Gold-Award.png"
     alt="2026 MarCom Awards Gold Winner — HSINMIN GLOBAL MUSIC"
-    width="760"
+    width="400"
   >
 </p>
 
