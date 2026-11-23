@@ -861,7 +861,7 @@ the academic evaluation of the FilmScore12 research framework.
   <img
     src="MarCom-Gold-Award.png"
     alt="2026 MarCom Awards Gold Winner — HSINMIN GLOBAL MUSIC"
-    width="400"
+    width="450"
   >
 </p>
 
@@ -916,7 +916,7 @@ creative technology, and enterprise-oriented multimedia applications.
   <img
     src="Titan-Silver-Awards.png"
     alt="2026 TITAN Innovation Awards Silver Winner — EchoFilm AI"
-    width="480"
+    width="400"
   >
 </p>
 
